@@ -4,4 +4,3 @@ Stump
 Big_Bag
 Book
 Gloves
-oi
