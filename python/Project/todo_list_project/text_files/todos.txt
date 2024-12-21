@@ -1,6 +1,4 @@
 Ball
 Bat
-Stump
-Big_Bag
-Book
 Gloves
+ect..
